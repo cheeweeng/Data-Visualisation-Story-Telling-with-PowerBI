@@ -70,7 +70,7 @@ The dashboard display the general resale price trends throughout the years. User
 This dashboard focuses on geographical trends, liquidity, and value.
 <img width="900" height="500" alt="Image" src="https://github.com/user-attachments/assets/86cd87d9-4e16-495f-8b47-54e49f27b0eb" />  
 
-It consist of heatmap showing which towns are the most expensive in terms of average resale price per sqft, a bar chart showing the towns with highest total number of transactions 
+It consist of heatmap showing which towns are the most expensive in terms of average resale price per sqft, a bar chart showing the towns with highest total number of transactions - shows the most active/liquid towns in terms of total resale volume -   
 and a filled map showing the areas with percentage of transaction that are below national average.
 The slicers of Flat type and Storey range allow users to drill down and see how price and volume change based on specific flat characteristics
 This dashboard has all the necessary components for a regular Singaporean property hunter to perform high-quality location analysis.  
