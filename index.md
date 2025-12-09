@@ -20,6 +20,7 @@ This filled-map visual paints each Singapore town according to percent_of_txn of
 The darker shades indicates where undervalued opportunities appear more frequently and lighter shades the opposite. The viewer can quickly scan the landscape and spot where value resides.  
 
 * Time Trends
+  
 <img width="800" height="400" alt="Image" src="https://github.com/user-attachments/assets/a4b381fa-5df3-45ab-a1aa-8e1f1a09e4de" />  
  
 This column bar chart provides insights into whether there is seasonal trend in resale volume. The Asian Financial Crisis started in July 1997 and Singapore weathered the spillover effect 
@@ -27,6 +28,7 @@ through to the second half of 1998 (Chew, 2016). From the transaction volume on 
 As a matter of fact, the highest resale transaction volume could be seen from Oct 1997 to Aug 1998.  
 
 * Flat Features
+  
 <img width="600" height="450" alt="Image" src="https://github.com/user-attachments/assets/87dc5173-72aa-4e8e-8125-afa41b2e163a" />  
 
 
@@ -39,7 +41,8 @@ Executive flats can be seen as having the most dramatic reduction in average fla
 This bar chart shows the average resale price across different storey ranges, arranged from the highest floors on the left to the lowest floors on the right. 
 The visual confirms a strong height premium — the higher the floor, the higher the typical resale price, even surpassing the million-dollar mark.  
 
-* Price and affordability 
+* Price and affordability
+  
 <img width="490" height="430" alt="Image" src="https://github.com/user-attachments/assets/48b07d74-257a-490e-a92f-8e5dbc3d9ac3" />  
 
  
